@@ -1,0 +1,31 @@
+GET http://localhost:8080/long_async
+Accept: application/json
+
+###
+
+GET http://httpbin.org/ip
+
+<> 2021-03-25T105835.200.json
+
+###
+
+GET http://localhost:8080/long_async
+Accept: application/json
+
+###
+
+GET http://localhost:8080/long_sync
+Accept: application/json
+
+###
+
+GET http://localhost:8080/long_async
+Accept: application/json
+
+###
+
+GET http://localhost:8080/long_sync
+Accept: application/json
+
+###
+

@@ -7,6 +7,10 @@ type person struct {
 	age  int
 }
 
+func (s person) Read() string {
+	return s.name
+}
+
 func newPerson(name string) *person {
 
 	p := person{name: name}
@@ -15,6 +19,8 @@ func newPerson(name string) *person {
 }
 
 func main() {
+	stars := person{"Bob", 20}
+	fmt.Println(stars.Read())
 
 	fmt.Println(person{"Bob", 20})
 

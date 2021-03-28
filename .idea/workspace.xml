@@ -5,13 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5a1059-f875-42ae-b164-cfdf2dd982d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面向对象/多态(接口).go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面向对象/封装.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/面向对象/继承.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/gin.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/goroutines-in-middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/grouping-routes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/main_old.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/model-binding-validation.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/use-middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/write-logfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go-nil.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goroutines use.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical-operation.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pack/pack.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package use.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/request_module.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strconv use.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_learn/gin.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_learn/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_learn/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gin_learn/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goroutines用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutines用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/if用法.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interface用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tempCodeRunnerFile.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/struct用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/可变参数函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/可变参数函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/递归.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +60,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -48,63 +71,124 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../program/bbs-go" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 多态(接口).go">
-    <configuration name="go build 多态(接口).go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/面向对象/多态(接口).go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build 封装.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\goProject\gin_learn" />
+      <recent name="D:\goProject" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/long_async" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://httpbin.org/ip" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/long_sync" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build goroutines use.go">
+    <configuration name="go build goProject/面向对象 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/面向对象/封装.go" />
+      <package value="goProject/面向对象" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 继承.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build goProject/面向对象" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/面向对象/继承.go" />
+      <package value="goProject/面向对象" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build interface用法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build goroutines use.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/interface用法.go" />
+      <filePath value="$PROJECT_DIR$/goroutines use.go" />
+      <package value="goProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build struct用法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build pack.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/struct用法.go" />
+      <filePath value="$PROJECT_DIR$/pack/pack.go" />
+      <package value="goProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build strconv use.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/strconv use.go" />
+      <package value="goProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build goProject/面向对象" />
+      <item itemvalue="Go Build.go build goProject/面向对象 (1)" />
+      <item itemvalue="Go Build.go build strconv use.go" />
+      <item itemvalue="Go Build.go build pack.go" />
+      <item itemvalue="Go Build.go build goroutines use.go" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 多态(接口).go" />
-        <item itemvalue="Go Build.go build interface用法.go" />
-        <item itemvalue="Go Build.go build 继承.go" />
-        <item itemvalue="Go Build.go build 封装.go" />
-        <item itemvalue="Go Build.go build struct用法.go" />
+        <item itemvalue="Go Build.go build goroutines use.go" />
+        <item itemvalue="Go Build.go build pack.go" />
+        <item itemvalue="Go Build.go build strconv use.go" />
+        <item itemvalue="Go Build.go build goProject/面向对象 (1)" />
+        <item itemvalue="Go Build.go build goProject/面向对象" />
       </list>
     </recent_temporary>
   </component>
@@ -122,14 +206,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/可变参数函数.go</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
+          <line>14</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
