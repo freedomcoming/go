@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5a1059-f875-42ae-b164-cfdf2dd982d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/beego.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gin_learn/gin.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gin_learn/goroutines-in-middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gin_learn/grouping-routes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gin_learn/main_old.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gin_learn/model-binding-validation.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gin_learn/use-middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gin_learn/write-logfile.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go-nil.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goroutines use.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical-operation.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pack/pack.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package use.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/request_module.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strconv use.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/gin.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goroutines用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/goroutines用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/if用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/if用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/interface用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/可变参数函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/可变参数函数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/递归.go" beforeDir="false" afterPath="$PROJECT_DIR$/递归.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struct的method.go" beforeDir="false" afterPath="$PROJECT_DIR$/struct的method.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,66 +102,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build goroutines use.go">
-    <configuration name="go build goProject/面向对象 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/面向对象/封装.go" />
-      <package value="goProject/面向对象" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build goProject/面向对象" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/面向对象/继承.go" />
-      <package value="goProject/面向对象" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build struct的method.go">
     <configuration name="go build goroutines use.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/goroutines use.go" />
       <package value="goProject" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/goroutines use.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build if用法.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/if用法.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build pack.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/pack/pack.go" />
       <package value="goProject" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/pack/pack.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build strconv use.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/strconv use.go" />
       <package value="goProject" />
       <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/strconv use.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build struct的method.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="goProject" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/struct的method.go" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build goProject/面向对象" />
-      <item itemvalue="Go Build.go build goProject/面向对象 (1)" />
       <item itemvalue="Go Build.go build strconv use.go" />
       <item itemvalue="Go Build.go build pack.go" />
       <item itemvalue="Go Build.go build goroutines use.go" />
+      <item itemvalue="Go Build.go build if用法.go" />
+      <item itemvalue="Go Build.go build struct的method.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build struct的method.go" />
+        <item itemvalue="Go Build.go build if用法.go" />
         <item itemvalue="Go Build.go build goroutines use.go" />
         <item itemvalue="Go Build.go build pack.go" />
         <item itemvalue="Go Build.go build strconv use.go" />
-        <item itemvalue="Go Build.go build goProject/面向对象 (1)" />
-        <item itemvalue="Go Build.go build goProject/面向对象" />
       </list>
     </recent_temporary>
   </component>
