@@ -2,10 +2,12 @@ package main
 
 import "fmt"
 
+// 相当于类
 type rect struct {
 	width, height int
 }
 
+// 相当于类的方法
 func (r rect) area() int {
 	return r.width * r.height
 }
@@ -16,7 +18,7 @@ func (r rect) perim() int {
 
 func main() {
 	r := rect{width: 10, height: 5}
-
+	fmt.Println(r) // 输出类
 	fmt.Println("area: ", r.area())
 	fmt.Println("perim:", r.perim())
 

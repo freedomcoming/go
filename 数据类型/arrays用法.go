@@ -4,11 +4,12 @@ import "fmt"
 
 func main() {
 
-	var a [5]int
+	//var a [5]int
+	a := [5]int{}
 	fmt.Println("emp:", a)
 
 	//var bb [3]string
-	bb := make([]string, 3)
+	bb := make([]int, 3)
 	fmt.Println(bb)
 
 	a[4] = 100

@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
@@ -59,6 +60,7 @@ func setupRouter() *gin.Engine {
 		}
 
 		if c.Bind(&json) == nil {
+			fmt.Println(json.Value)
 			db[user] = json.Value
 			c.JSON(http.StatusOK, gin.H{"status": "ok"})
 		}
