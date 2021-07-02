@@ -16,17 +16,14 @@ type PetrolCar struct {
 	Gasoline int32
 }
 
-//定义一个接口
 type RunService interface {
 	Run()
 }
 
-// 实现1
 func (car PetrolCar) Run() {
 	fmt.Printf("%s PetrolCar run \n", car.Name)
 }
 
-// 实现2
 func (car ElectricCar1) Run() {
 	fmt.Printf("%s ElectricCar1 run \n", car.Name)
 }

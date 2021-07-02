@@ -5,64 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5a1059-f875-42ae-b164-cfdf2dd982d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/channel用法/channel-buffering.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/channel-synchronization.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/closing-channels.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/mutexes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/non-blocking-channel-operations.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/range-over-channels.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/select.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/stateful-goroutines.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/tickers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/waitgroups.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/channel用法/worker-pools.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/defer用法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/json用法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/panic用法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/sorting-by-functions.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/sort排序.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/time.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/判断类型.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/随机数.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据类型/list用法.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据类型/set集合.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据类型/set集合2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据类型/string操作.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/arrays用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beego.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/channels用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel用法/channels用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants常量.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/constants常量.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for循环.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/for循环.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-nil.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/go-nil.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goroutines use.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/goroutines用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/goroutines用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go的方法函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/go的方法函数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/if用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/interface用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learngo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logical-operation.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/logical-operation.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/map dict用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/map dict用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack/pack.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package use.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel用法/channel-directions.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/range用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/range用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/request_module.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/request_module.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/slices.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strconv use.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/struct用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/struct的method.go" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/struct的method.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/switch用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/switch用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/values.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/values.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/variables.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/使用error.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/使用error.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/函数闭包.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/函数闭包.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/可变参数函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/可变参数函数.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多个函数返回值.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/多个函数返回值.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/指针.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/指针.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/递归.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/递归.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象/多态(接口).go" beforeDir="false" afterPath="$PROJECT_DIR$/面向对象/多态(接口).go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,19 +46,18 @@
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
-    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
-    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="configurable..is.expanded" value="true" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../program/bbs-go" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -168,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build goProject/面向对象 (1)">
+  <component name="RunManager" selected="Go Build.go build goProject/常用 (1)">
     <configuration name="go build goProject/常用 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -196,13 +139,13 @@
       <filePath value="$PROJECT_DIR$/常用/sorting-by-functions.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build goProject/常用" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build goProject/面向对象 (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <package value="goProject/常用" />
+      <package value="goProject/面向对象" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/常用/随机数.go" />
+      <filePath value="$PROJECT_DIR$/面向对象/多态(接口).go" />
       <method v="2" />
     </configuration>
     <configuration name="go build goProject/面向对象" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -216,11 +159,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build goProject/面向对象 (1)" />
         <item itemvalue="Go Build.go build goProject/面向对象" />
         <item itemvalue="Go Build.go build goProject/常用 (2)" />
         <item itemvalue="Go Build.go build goProject/常用 (1)" />
-        <item itemvalue="Go Build.go build goProject/常用" />
       </list>
     </recent_temporary>
   </component>
