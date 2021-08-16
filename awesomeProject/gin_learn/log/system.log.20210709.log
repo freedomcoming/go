@@ -1,0 +1,6 @@
+{"client_ip":"127.0.0.1","latency_time":0,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/ping/100?name=wxw","status_code":200,"time":"2021-07-09 09:30:21"}
+{"client_ip":"127.0.0.1","latency_time":0,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/ping/100?name=wxw","status_code":200,"time":"2021-07-09 09:30:27"}
+{"client_ip":"127.0.0.1","latency_time":0,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/ping/100?name=wxw","status_code":200,"time":"2021-07-09 09:30:27"}
+{"client_ip":"127.0.0.1","latency_time":0,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/ping/100?ame=wxw","status_code":200,"time":"2021-07-09 09:37:06"}
+{"client_ip":"127.0.0.1","latency_time":1003700,"level":"info","msg":"","req_method":"GET","req_uri":"/v1/ping/100?ame=wxw","status_code":200,"time":"2021-07-09 09:37:21"}
+time="2021-07-09T09:37:21+08:00" level=info client_ip=127.0.0.1 latency_time=1.0037ms req_method=GET req_uri="/v1/ping/100?ame=wxw" status_code=200

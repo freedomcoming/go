@@ -1,11 +1,18 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"goProject/常用/packagenew"
+)
 
 func main() {
-
+	// 包的使用 目录中才能建立包  可以别名 cool .  大写变量才能引用 小写是私有的
+	//fmt.Println(cool.A)
+	//fmt.Println(A)
+	packagenew.Test1()
 	var a = "initial"
-	fmt.Println(a)
+	aa := "aa"
+	fmt.Println(a,aa)
 
 	var b, c int = 1, 2
 	fmt.Println(b, c)
