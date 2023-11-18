@@ -22,6 +22,7 @@ func main() {
 	fmt.Println("dcl:", b)
 
 	var twoD [2][3]int
+	fmt.Println(twoD)
 	for i := 0; i < 2; i++ {
 		for j := 0; j < 3; j++ {
 			twoD[i][j] = i + j

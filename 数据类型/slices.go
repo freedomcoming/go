@@ -15,8 +15,10 @@ func main() {
 
 	fmt.Println("len:", len(s))
 
+	// append 返回的是slices
 	s = append(s, "d")
 	s = append(s, "e", "f")
+
 	fmt.Println("apd:", s)
 
 	c := make([]string, len(s))

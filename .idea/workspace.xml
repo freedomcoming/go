@@ -5,350 +5,115 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db5a1059-f875-42ae-b164-cfdf2dd982d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/awesomeProject/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/awesomeProject/otherpackage/baidu_spider.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/gin-vue-admin/server/uploads/file/1e6b7284ff6c65c1a7f317b499771dee_20210325163646.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/gin-vue-admin/server/uploads/file/6f4c5ef267a3b5556d93f3e9cd5b919f_20210325163710.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常用/packagenew/testPackage.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/apiproject.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/apiproject.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/conf/app.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/conf/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/constant/client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/constant/cmd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/constant/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/constant/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/constant/redis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/controllers/object.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/controllers/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/log/location.2023-10-19.001.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/log/location.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/log/logger.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/models/object.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/models/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/routers/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/swagger/swagger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/swagger/swagger.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beego_demo/apiproject/tests/default_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gin_learn/log/system.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_use.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/point_use.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regular/m.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_use.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/反射/反射设置值.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/反射/结构体反射.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/反射/获取变量类型和值.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/找素数.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据类型/只读只写管道.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文件/bufioRead.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文件/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文件/fileRead.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文件/ioutilRead.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文件/main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/读取文件/写入数据.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/锁/struct 锁.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/锁/互斥锁.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/锁/读写锁.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/gin.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/goroutines-in-middleware.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/grouping-routes.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/main_old.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/model-binding-validation.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/use-middleware.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gin_learn/write-logfile.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go" beforeDir="false" afterPath="$PROJECT_DIR$/go/bbs-go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/.docker-compose/mysql/db/conf.d/my.cnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/.docker-compose/mysql/db/docker-entrypoint-initdb.d/init-db.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/.github/workflows/bbs-go-server.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/.github/workflows/bbs-go-site.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/CNAME&#10;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/deploy.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/docs/.vuepress/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/docs/guide/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/sql/update.20200418.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/docs/sql/update.20201024.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/app/cron.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/app/iris.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/app/starting.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/bbs-go.docker.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/bbs-go.example.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/build.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/article_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/article_tag_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/sys_config_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/tag_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/topic_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/user_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/user_token_cache.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/cache/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/collect/spider_api.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/collect/wxbot_api.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/baiduai/baiduai.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/baiduai/baiduai_models.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/baiduai/baiduai_token.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/code_errors.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/email/email.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/github/github_oauth.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/html/html.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/markdown/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/qq/qq_oauth.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/seo/push.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/uploader/aliyun_oss_uploader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/uploader/local_uploader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/uploader/uploader.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/uploader/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/urls/ant_matcher.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/urls/urls.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/utils.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/common/validate/validate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/config/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/article_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/article_tag_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/check_in_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/check_in_controller.go.temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/comment_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/common_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/email_code_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/favorite_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/link_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/message_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/operate_log_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/project_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/sys_config_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/tag_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/third_account_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/topic_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/topic_node_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/topic_tag_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/user_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/user_score_log_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/admin/user_token_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/article_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/captcha_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/chekcin_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/comment_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/config_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/favorite_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/github_login_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/like_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/link_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/login_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/project_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/qq_login_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/search_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/spider_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/tag_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/topic_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/upload_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/api/user_controller.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/article_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/comment_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/favorite_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/message_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/misc_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/node_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/oss_image_style.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/project_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/tag_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/topic_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/topic_search_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/controllers/render/user_render.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/createtags.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/es/config.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/es/topic.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/es/topic.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/generator/generator.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/main.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/middleware/api_auth_middleware.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/model/constants/constants.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/model/data.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/model/form.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/model/model_methods.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/model/models.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/model/response.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/article_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/article_tag_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/check_in_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/check_in_repository.go.temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/comment_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/email_code_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/favorite_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/link_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/message_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/operate_log_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/project_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/sys_config_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/tag_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/third_account_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/topic_node_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/topic_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/topic_tag_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/user_like_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/user_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/user_score_log_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/repositories/user_token_repository.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/article_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/article_tag_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/check_in_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/check_in_service.go.temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/comment_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/email_code_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/favorite_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/link_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/message_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/operate_log_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/project_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/sys_config_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/tag_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/third_account_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/topic_node_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/topic_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/topic_tag_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/user_like_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/user_score_log_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/user_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/services/user_token_service.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/sitemap/sitemap.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/start.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/server/web/admin/src/views/check-in/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/.prettierrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/app.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/images/bg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/images/logo364x364.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/images/net.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/ad.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/article.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/comment.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/common.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/link.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/topic.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/assets/styles/variable.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/common/UserHelper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/ArticleList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/Avatar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/CheckIn.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/Comment.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/CommentInput.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/CommentList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/CommentTextInput.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/FriendLinks.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/GithubLogin.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/HomeIcons.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/ImageUpload.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/LoadMore.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/MarkdownEditor.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/MarkdownHelp.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/MsgNotice.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/MyFooter.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/MyNav.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/Pagination.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/ProjectList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/QqLogin.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/ScoreRank.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/SimpleEditor.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/SiteNotice.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/TagInput.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/UserCenterSidebar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/UserInfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/UserProfile.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/topic/CreateTopicBtn.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/topic/TopicList.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/topic/TopicManageMenu.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/components/topic/TopicsNav.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/docs/ad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/jsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/layouts/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/layouts/admin.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/layouts/default.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/layouts/empty.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/layouts/error.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/layouts/no-footer.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/middleware/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/middleware/authenticated.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/nuxt.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/about.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/articles/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/comments/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/components/UserInfo.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/links/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/operate-log/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/settings/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/tags/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/topics/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/topics/nodes.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/users/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/users/score-log.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/admin/users/score.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/article/_id.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/article/create.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/article/edit/_id.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/article/redirect/_id.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/articles/_tagId.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/articles/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/link/_id.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/links/_page.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/project/_id.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/projects/_page.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/redirect.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/search/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/tags/_page.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topic/_id.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topic/create.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topic/edit/_id.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topics/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topics/node/_nodeId.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topics/node/newest.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topics/node/recommend.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/topics/tag/_tagId.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/_userId/index.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/email/verify.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/favorites.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/github/callback.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/messages.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/qq/callback.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/scores.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/settings.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/signin.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/pages/user/signup.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/plugins/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/plugins/axios.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/plugins/bbs-go.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/plugins/element-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/plugins/filters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/plugins/infinite-scroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/plugins/vue-lazyload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/start.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/static/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/static/ads.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/static/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/store/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/store/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/store/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/store/user.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/site/utils/stringToColor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/bbs-go/up.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/.docker-compose/nginx/conf.d/my.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/.docker-compose/shell/server-handle.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/.github/workflows/build_test.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/README-en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/docker/docker-start.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/docker/etc/nginx/nginx.conf.tpl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/dockerfile_server" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/dockerfile_web" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/docs/gin-vue-admin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/server/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin/server/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/server/core/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin/server/core/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/server/global/global.go" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin/server/global/global.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/server/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin/server/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/server/resource/excel/ExcelExport.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin/server/resource/excel/ExcelExport.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/web/build.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin/web/build.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/web/openDocument.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go/gin-vue-admin/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/go/gin-vue-admin/web/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用/json用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/json用法.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常用/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/常用/variables.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/.idea/awesomeProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/JwtUse.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/JwtUse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/gormUse.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/gormUse.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/log/system.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/log/system.log.20210709.log" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/log/system.log.20210709.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/gin_learn/middle/Logger.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin_learn/middle/Logger.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/arrays用法.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/baidu_spider.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/func用法.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/map用法.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/struct用法.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/testpackage.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/基本数据类型.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/循环for.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/指针.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesomeProject/otherpackage/接口.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel用法/channel-buffering.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel用法/channel-buffering.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel用法/channel-synchronization.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel用法/channel-synchronization.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel用法/channels用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel用法/channels用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel用法/non-blocking-channel-operations.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel用法/non-blocking-channel-operations.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/channel用法/worker-pools.go" beforeDir="false" afterPath="$PROJECT_DIR$/channel用法/worker-pools.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/defer用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/defer用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/for循环.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/for循环.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/go-nil.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/go-nil.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/goroutines用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/goroutines用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/go的方法函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/go的方法函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/if用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/if用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/json用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/json用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/logical-operation.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/logical-operation.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/packagenew/testPackage.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/packagenew/testPackage.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/panic用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/panic用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/range用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/range用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/request_module.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/request_module.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/sorting-by-functions.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/sorting-by-functions.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/sort排序.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/sort排序.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/switch用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/switch用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/time.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/time.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/values.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/values.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/variables.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/variables.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/使用error.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/使用error.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/函数闭包.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/函数闭包.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/判断类型.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/判断类型.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/可变参数函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/可变参数函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/多个函数返回值.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/多个函数返回值.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/指针.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/指针.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/递归.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/递归.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/常用/随机数.go" beforeDir="false" afterPath="$PROJECT_DIR$/regular/随机数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/arrays用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/arrays用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/list用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/链表.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/map dict用法.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/map dict用法.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型/slices.go" beforeDir="false" afterPath="$PROJECT_DIR$/数据类型/slices.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象/interface用法.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象/struct用法.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象/struct的method.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象/多态(接口).go" beforeDir="false" afterPath="$PROJECT_DIR$/多态(接口).go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象/封装.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/面向对象/继承.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -362,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../golang" />
+  <component name="GOROOT" url="file://D:/gosdk/sdk/go1.18" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -373,6 +138,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1gyxJ5fDXnvOOPb4AcMC2y0PYjv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -387,29 +155,38 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable..is.expanded" value="true" />
     <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/awesomeProject/baidu_spider.go" />
+    <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/beego_demo/apiproject/conf" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wxw\Desktop\go\beego_demo\apiproject\conf" />
+      <recent name="C:\Users\wxw\Desktop\go\beego_demo\apiproject" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wxw\Desktop\go" />
       <recent name="D:\goProject\awesomeProject\otherpackage" />
       <recent name="D:\goProject\常用" />
       <recent name="D:\goProject\数据类型" />
       <recent name="D:\goProject\channel用法" />
-      <recent name="D:\goProject\面向对象" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -455,62 +232,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (1)">
-    <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goProject" />
-      <working_directory value="$PROJECT_DIR$/awesomeProject" />
-      <kind value="FILE" />
-      <package value="awesomeProject" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/awesomeProject/main.go|$PROJECT_DIR$/awesomeProject/baidu_spider.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build baidu_spider.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goProject" />
-      <working_directory value="$PROJECT_DIR$/awesomeProject" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/awesomeProject/otherpackage/baidu_spider.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build baidu_spider.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goProject" />
-      <working_directory value="$PROJECT_DIR$/awesomeProject" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/awesomeProject/baidu_spider.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="goProject" />
-      <working_directory value="$PROJECT_DIR$/awesomeProject" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/awesomeProject/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build testPackage.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build goProject/读取文件 (1)">
+    <configuration name="go build 结构体反射.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/常用/packagenew/testPackage.go" />
+      <filePath value="$PROJECT_DIR$/反射/结构体反射.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 获取变量类型和值.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/反射/获取变量类型和值.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build fileRead.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="goProject/读取文件" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/读取文件/fileRead.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goProject/读取文件 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="goProject/读取文件" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/读取文件/写入数据.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goProject/读取文件" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="goProject/读取文件" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/读取文件/bufioRead.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ioutilRead.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/读取文件/ioutilRead.go" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build testPackage.go" />
-      <item itemvalue="Go Build.go build awesomeProject" />
-      <item itemvalue="Go Build.go build main.go (1)" />
-      <item itemvalue="Go Build.go build baidu_spider.go" />
-      <item itemvalue="Go Build.go build baidu_spider.go (1)" />
+      <item itemvalue="Go Build.go build 结构体反射.go" />
+      <item itemvalue="Go Build.go build fileRead.go" />
+      <item itemvalue="Go Build.go build goProject/读取文件" />
+      <item itemvalue="Go Build.go build ioutilRead.go" />
+      <item itemvalue="Go Build.go build goProject/读取文件 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build baidu_spider.go (1)" />
-        <item itemvalue="Go Build.go build awesomeProject" />
-        <item itemvalue="Go Build.go build baidu_spider.go" />
-        <item itemvalue="Go Build.go build testPackage.go" />
+        <item itemvalue="Go Build.go build goProject/读取文件 (1)" />
+        <item itemvalue="Go Build.go build ioutilRead.go" />
+        <item itemvalue="Go Build.go build goProject/读取文件" />
+        <item itemvalue="Go Build.go build fileRead.go" />
+        <item itemvalue="Go Build.go build fileRead.go" />
       </list>
     </recent_temporary>
   </component>
@@ -528,12 +315,16 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.io,direct" />
+      </map>
+    </environment>
   </component>
 </project>

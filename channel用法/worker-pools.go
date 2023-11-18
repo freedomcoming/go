@@ -21,14 +21,15 @@ func main() {
 	results := make(chan int, numJobs)
 
 	for w := 1; w <= 3; w++ {
+		fmt.Println(w)
 		go worker(w, jobs, results)
 	}
 
 	for j := 1; j <= numJobs; j++ {
 		jobs <- j
 	}
-	close(jobs)
-
+	//close(jobs)
+	//
 	for a := 1; a <= numJobs; a++ {
 		<-results
 	}

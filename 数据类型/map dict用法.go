@@ -23,16 +23,16 @@ func main() {
 	delete(m, "k2")
 	fmt.Println("map:", m)
 
+	// prs1 是否存在  prs 具体值
+	fmt.Println("判断是否存在")
 	prs1, prs := m["k2"]
-	fmt.Println(prs1) // 不存在为0
-	fmt.Println("prs:", prs)
+	fmt.Println(prs1)        // 不存在为0
+	fmt.Println("prs:", prs) // false
 
-
-	//
 	n := map[string]int{"foo": 1, "bar": 2}
 	fmt.Println("map:", n)
 
-
+	// map 遍历
 	for c := range m {
 		fmt.Println(m[c])
 	}
